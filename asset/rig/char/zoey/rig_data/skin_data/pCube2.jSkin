@@ -1,0 +1,30 @@
+{
+    "bypassObj": [],
+    "objDDic": [
+        {
+            "blendWeights": {},
+            "nameSpace": "",
+            "normalizeWeights": 1,
+            "objName": "pCube2",
+            "skinClsName": "skinCluster5",
+            "skinDataFormat": "compressed",
+            "skinningMethod": 0,
+            "vertexCount": 8,
+            "weights": {
+                "joint1": {
+                    "0": 1.0,
+                    "1": 1.0,
+                    "2": 1.0,
+                    "3": 1.0,
+                    "4": 1.0,
+                    "5": 1.0,
+                    "6": 1.0,
+                    "7": 1.0
+                }
+            }
+        }
+    ],
+    "objs": [
+        "pCube2"
+    ]
+}
